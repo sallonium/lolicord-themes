@@ -23,8 +23,9 @@
         "link_500": -15914944,
         "primary_dark_100": -15715760,
         "primary_dark_300": -15317392,
-        "primary_660": -15317392,
-        "dim_foreground_material_light": -16445672
+        "primary_660": -13350823,
+        "dim_foreground_material_light": -16445672,
+        "primary_630": -16379363
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -16246746,
